@@ -237,9 +237,9 @@ function create_config( )
     "help",
     "all",
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {135693512,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {90312082},--Realms Id
+    realm = {99063296},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     TeleDark Anti Spam Bot v3.0
